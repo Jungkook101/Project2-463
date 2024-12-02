@@ -6,7 +6,11 @@
 
 ### Our sorting algorithms will ensure that the program neatly organizes the data based on the user's input. So if a user wanted to view the crime type, they could type that into the prompt and the system will organize and arrange the dataset appropriately based on the prompt. In addition to this, there will be a graph that outputs a visualization of the organized data.
 
-## Significance of project
+## A Snapshot of the KaggleData Since the file is much too large to upload onto Github
 
-### Our Philly Crime project is significant because it utilizes the important concepts that we learned in class. It helps us understand more about the topic of sorting
+![Screenshot 2024-12-02 150924](https://github.com/user-attachments/assets/4ad6031a-8317-45ad-9d70-93dd930487a6)
+
+
+## Significance of project
+Our Philly Crime project is significant because it utilizes the important concepts that we learned in class. It helps us understand more about the topic of sorting larger files and manipulate the data so that we can help the user find what they want to see in terms of crime statistics within the Philadelphia areas.
 
