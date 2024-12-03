@@ -14,3 +14,17 @@
 ## Significance of project
 Our Philly Crime project is significant because it utilizes the important concepts that we learned in class. It helps us understand more about the topic of sorting larger files and manipulate the data so that we can help the user find what they want to see in terms of crime statistics within the Philadelphia areas.
 
+# Usage Instructions
+Access the colab notebook here: https://colab.research.google.com/drive/1-0R6A_UST8uw0xqOde3DM8y68_YgR7x8?usp=sharing
+
+# Structure of the code
+## CSV parsing and Data Preprocessing
+The kagglehub module is used to easily load the kaggle dataset into the colab environment automatically. The dataset is in the form of a csv, with each row representing a reported crime with several additional columns of information.
+
+## Counting
+Simple algorithms are used to count the number of crimes that occur under certain specifications, such as by year, police zone, hour, or any combination of attributes, such as most common crime type by hour.
+
+## Graphing and Djikstra's algorithm
+Using an adjacency list of the nearest police zones in the Philadelphia region, and a list containing the counts of crime by each police zone, a graph is formed where each node is connected based on geographical adjacency, with the weights being the amount of crime reported in the adjacent zone. Djikstra's algorithm is then used to find the shortest path (path with least crime) to get from one zone in Philadelphia to another.
+
+# Functionalities and Test Results 
