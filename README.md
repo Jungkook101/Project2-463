@@ -1,6 +1,6 @@
 # Philly Crime
 
-## For our project, we took an aim at applying quick sort and merge sort to a data set that contains information about crimes that occured within the Philadelphia area from recent years. This dataset was found on Kaggle and has information such as when and where the crime took place along with the type of crime that it was. Just for example, we can see that some common themse in these crimes were thefts, vandalism or assaults.
+## For our project, we took an aim at applying quick sort and dijkstra's algorithm to a data set that contains information about crimes that occured within the Philadelphia area in a large range of years. This dataset was found on Kaggle and has information such as when and where the crime took place along with the type of crime that it was. Just for example, we can see that some common themes in these crimes were thefts, vandalism or assaults. Our program is setup so that you can see the safest path possible from one district (node) to another. The weights on them are the amount of crimes within that district over time. Quicksorting is used in a way that essentially organizes the data based on frequency and 
 
 ## How the project works
 
@@ -28,3 +28,9 @@ Simple algorithms are used to count the number of crimes that occur under certai
 Using an adjacency list of the nearest police zones in the Philadelphia region, and a list containing the counts of crime by each police zone, a graph is formed where each node is connected based on geographical adjacency, with the weights being the amount of crime reported in the adjacent zone. Djikstra's algorithm is then used to find the shortest path (path with least crime) to get from one zone in Philadelphia to another.
 
 # Functionalities and Test Results 
+
+
+
+
+## Significance of project
+Our Philly Crime project is significant because it utilizes the important concepts that we learned in class. It helps us understand more about the topic of sorting larger files and manipulate the data so that we can help the user find what they want to see in terms of crime statistics within the Philadelphia areas.
