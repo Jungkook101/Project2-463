@@ -1,6 +1,6 @@
 # Philly Crime
 
-## For our project, we took an aim at applying quick sort and dijkstra's algorithm to a data set that contains information about crimes that occured within the Philadelphia area in a large range of years. This dataset was found on Kaggle and has information such as when and where the crime took place along with the type of crime that it was. Just for example, we can see that some common themes in these crimes were thefts, vandalism or assaults. Our program is setup so that you can see the safest path possible from one district (node) to another. The weights on them are the amount of crimes within that district over time. Quicksorting is used in a way that essentially organizes the data based on frequency and sorts the crimes with percentages to sort.
+For our project, we took an aim at applying quick sort and dijkstra's algorithm to a data set that contains information about crimes that occured within the Philadelphia area in a large range of years. This dataset was found on Kaggle and has information such as when and where the crime took place along with the type of crime that it was. Just for example, we can see that some common themes in these crimes were thefts, vandalism or assaults. Our program is setup so that you can see the safest path possible from one district (node) to another. The weights on them are the amount of crimes within that district over time. Quicksorting is used in a way that essentially organizes the data based on frequency and sorts the crimes with percentages to sort.
 
 ## How the project works
 
