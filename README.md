@@ -29,6 +29,10 @@ Using an adjacency list of the nearest police zones in the Philadelphia region, 
 
 # Functionalities and Test Results 
 
+![Untitled](https://github.com/user-attachments/assets/25aa8c3a-2572-46a2-a503-96f75f660c60)
 
+![Untitled](https://github.com/user-attachments/assets/f543cb6d-7537-463f-8840-915f156d5ff8)
 
+![Untitled](https://github.com/user-attachments/assets/b9f6c98f-4228-4810-9551-5ebc8f6423d1)
 
+![image](https://github.com/user-attachments/assets/8f4d807c-4981-48fa-bc59-83331424e940)
