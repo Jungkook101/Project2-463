@@ -4,7 +4,7 @@ For our project, we took an aim at applying quick sort and dijkstra's algorithm 
 
 ## How the project works
 
-### Our sorting algorithms will ensure that the program neatly organizes the data based on the user's input. So if a user wanted to view the crime type, they could type that into the prompt and the system will organize and arrange the dataset appropriately based on the prompt. In addition to this, there will be a graph that outputs a visualization of the organized data.
+Our sorting algorithms will ensure that the program neatly organizes the data based on the user's input. So if a user wanted to view the crime type, they could type that into the prompt and the system will organize and arrange the dataset appropriately based on the prompt. In addition to this, there will be a graph that outputs a visualization of the organized data.
 
 ## A Snapshot of the KaggleData Since the file is much too large to upload onto Github
 
