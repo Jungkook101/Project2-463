@@ -33,6 +33,9 @@ Using an adjacency list of the nearest police zones in the Philadelphia region, 
 
 ![Untitled](https://github.com/user-attachments/assets/f543cb6d-7537-463f-8840-915f156d5ff8)
 
-![Untitled](https://github.com/user-attachments/assets/b9f6c98f-4228-4810-9551-5ebc8f6423d1)
+![image](https://github.com/user-attachments/assets/f7f575b6-38b1-49f9-9ed2-871fdcb9d8f3)
 
 ![image](https://github.com/user-attachments/assets/8f4d807c-4981-48fa-bc59-83331424e940)
+
+# Achievement of project goals 
+Our project successfully uses Quicksort and Djikstra's algorithm to produce useful insights from crime data in the Philadelphia area. After parsing and organizing the data based on the number of crimes committed for a given attribute, we used quicksort to find the most common types of crime for a given hour. We were also successfully able to use Djikstra's algorithm to find the safest path to take through Philadelphia's police districts to avoid areas with the highest crime rates. 
