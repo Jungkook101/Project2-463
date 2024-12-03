@@ -32,5 +32,3 @@ Using an adjacency list of the nearest police zones in the Philadelphia region, 
 
 
 
-## Significance of project
-Our Philly Crime project is significant because it utilizes the important concepts that we learned in class. It helps us understand more about the topic of sorting larger files and manipulate the data so that we can help the user find what they want to see in terms of crime statistics within the Philadelphia areas.
