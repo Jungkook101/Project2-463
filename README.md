@@ -27,6 +27,8 @@ Simple algorithms are used to count the number of crimes that occur under certai
 ## Graphing and Djikstra's algorithm
 Using an adjacency list of the nearest police zones in the Philadelphia region, and a list containing the counts of crime by each police zone, a graph is formed where each node is connected based on geographical adjacency, with the weights being the amount of crime reported in the adjacent zone. Djikstra's algorithm is then used to find the shortest path (path with least crime) to get from one zone in Philadelphia to another.
 
+![image](https://github.com/user-attachments/assets/56d90a52-f10d-497b-b7d7-05d1780aabab)
+
 # Functionalities and Test Results 
 
 ![Untitled](https://github.com/user-attachments/assets/25aa8c3a-2572-46a2-a503-96f75f660c60)
